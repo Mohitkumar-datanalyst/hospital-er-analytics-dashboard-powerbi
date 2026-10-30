@@ -74,7 +74,7 @@ The objective of this project is to organize emergency room data into an interac
 <img width="1507" height="897" alt="Hospital ER Dashboard" src="https://github.com/user-attachments/assets/b0d60113-b7e5-45b2-b289-290b9e66f3f8" />
 
 ### Dashboard Walkthrough
-[Watch the dashboard walkthrough](Dashboard/Hospital_ER_Dashboard_Walkthrough.mp4)
+<a href="https://github.com/Mohitkumar-datanalyst/hospital-er-analytics-dashboard-powerbi/blob/main/1030.mp4">Watch the dashboard walkthrough</a>
 
 The walkthrough demonstrates the dashboard navigation, monthly reporting, consolidated analysis, and interactive filtering.
 
