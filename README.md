@@ -24,7 +24,7 @@ The objective of this project is to organize emergency room data into an interac
 - **Period:** April 2023 – October 2024
 - **Key fields:** Admission date, patient age, gender, race, department referral, admission status, satisfaction score, waiting time, and patient count.
 
-**Dataset:** [Download the approved, de-identified dataset](Dataset/Hospital_ER_Data_Anonymized.csv)
+**Dataset:** <a href="https://github.com/Mohitkumar-datanalyst/hospital-er-analytics-dashboard-powerbi/blob/main/Hospital%20ER_Data.csv">Download the approved, de-identified dataset</a>
 
 *Privacy note: The public dataset must be appropriately de-identified and approved for sharing. Do not publish patient names, patient IDs, or other identifying information.*
 
