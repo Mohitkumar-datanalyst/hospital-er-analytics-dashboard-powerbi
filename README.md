@@ -71,9 +71,7 @@ The objective of this project is to organize emergency room data into an interac
 ## Dashboard Preview
 
 ### Monthly View
-![Hospital ER Monthly Dashboard](Dashboard/Hospital_ER_Dashboard.png)
-
-*Replace this image with your actual dashboard screenshot.*
+<img width="1507" height="897" alt="Hospital ER Dashboard" src="https://github.com/user-attachments/assets/b0d60113-b7e5-45b2-b289-290b9e66f3f8" />
 
 ### Dashboard Walkthrough
 [Watch the dashboard walkthrough](Dashboard/Hospital_ER_Dashboard_Walkthrough.mp4)
