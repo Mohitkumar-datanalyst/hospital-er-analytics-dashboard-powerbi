@@ -1,7 +1,3 @@
-# hospital-er-analytics-dashboard-powerbi
-Power BI Hospital Emergency Room Analytics Dashboard analyzing patient admissions, waiting times, satisfaction scores, referral patterns, and operational KPIs through interactive data visualization.
-
-
 # Hospital Emergency Room Analytics Dashboard – Power BI
 
 An interactive healthcare analytics solution built with Microsoft Power BI to analyze emergency room patient flow, admission outcomes, waiting times, patient satisfaction, and referral patterns using data modeling, DAX, Power Query, and data visualization.
