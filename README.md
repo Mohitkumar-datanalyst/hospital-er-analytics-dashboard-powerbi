@@ -123,7 +123,7 @@ Data Analyst | Power BI | DAX | SQL | Advanced Excel | Business Intelligence
 
 Interested in Data Analyst, Power BI Analyst, BI Developer, and freelance dashboard development opportunities.
 
-- **GitHub:** [Explore my projects](https://github.com/your-username)
+- **GitHub:** <a href="https://github.com/Mohitkumar-datanalyst?tab=repositories">Explore my projects</a>
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohitdataanalyst/)
 
 ---
